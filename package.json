@@ -1,0 +1,9 @@
+{
+  "name": "startbootstrap-stylish-portfolio-gh-pages",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "startbootstrap-stylish-portfolio": "^6.0.5"
+  }
+}
